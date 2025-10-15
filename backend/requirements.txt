@@ -1,0 +1,29 @@
+# FastAPI and web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Core ML and image processing
+torch
+torchvision
+deepforest
+rasterio
+Pillow
+
+# Geospatial and coordinate processing
+pyproj
+shapely
+
+# Data processing
+pandas
+numpy
+
+# Utilities
+python-dateutil
+pydantic
+
+# Logging
+loguru
+
+# Optional: for CUDA support (uncomment if using GPU)
+# torch-audio
